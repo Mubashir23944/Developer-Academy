@@ -1,0 +1,19 @@
+@font-face {
+    font-family: customFont1;
+    src: url('fonts/Inspiration-Regular.ttf');
+}
+@font-face {
+    font-family: customFont2;
+    src: url('fonts/OleoScriptSwashCaps-Bold.ttf');
+}
+.external {
+    color: blue;
+}
+
+.para{
+    font-family: customFont1;
+}
+
+.para:hover{
+    font-family: customFont2;
+}
